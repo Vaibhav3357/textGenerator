@@ -8,7 +8,7 @@ namespace TextGenerator
 {
     public static class Helper
     {
-        private static DataTable getCloneDt(DataTable dt, bool clearRows)
+        public static DataTable getCloneDt(DataTable dt, bool clearRows)
         {
             DataTable _dtClone = dt;
             foreach (System.Data.DataColumn col in _dtClone.Columns) col.ReadOnly = false;
@@ -20,7 +20,7 @@ namespace TextGenerator
             }
             return _dtClone;
         }
-        private static DataTable getDatatbleStruct(DataTable dt)
+        public static DataTable getDatatbleStruct(DataTable dt)
         {
             DataTable _dtClone = new DataTable();
             foreach (var item in dt.Columns)
