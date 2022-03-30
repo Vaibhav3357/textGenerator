@@ -3,6 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Company>LSS</Company>
+    <Authors>Vaibhav</Authors>
+    <Description>Generate Text File - Document Soon</Description>
   </PropertyGroup>
 
 </Project>
