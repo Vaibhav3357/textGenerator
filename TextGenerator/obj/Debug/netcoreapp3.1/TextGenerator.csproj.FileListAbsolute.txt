@@ -1,0 +1,13 @@
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.exe
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.deps.json
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.runtimeconfig.json
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.runtimeconfig.dev.json
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.dll
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.pdb
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.AssemblyInfoInputs.cache
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.AssemblyInfo.cs
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.csproj.CoreCompileInputs.cache
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.dll
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.pdb
+D:\01 Documents\MY Project\TextGenerator\TextGenerator\obj\Debug\netcoreapp3.1\TextGenerator.genruntimeconfig.cache
