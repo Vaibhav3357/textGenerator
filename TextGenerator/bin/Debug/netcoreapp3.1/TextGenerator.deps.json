@@ -6,18 +6,29 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "TextGenerator/1.0.0": {
+      "TextGenerator/1.0.1": {
+        "dependencies": {
+          "Obfuscar": "2.2.33"
+        },
         "runtime": {
           "TextGenerator.dll": {}
         }
-      }
+      },
+      "Obfuscar/2.2.33": {}
     }
   },
   "libraries": {
-    "TextGenerator/1.0.0": {
+    "TextGenerator/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Obfuscar/2.2.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W4OBXib/HqKjnGF1rfpj0vifrVDmWKTGRq9Af98UpI68gSTA1q2oZkV+b+eVQZhvuSguPefDDyLr4A3C/RK1nA==",
+      "path": "obfuscar/2.2.33",
+      "hashPath": "obfuscar.2.2.33.nupkg.sha512"
     }
   }
 }

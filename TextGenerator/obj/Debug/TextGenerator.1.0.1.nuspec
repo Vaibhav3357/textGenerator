@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TextGenerator</id>
+    <version>1.0.1</version>
+    <authors>Vaibhav</authors>
+    <description>Generate Text File - Document Soon</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\01 Documents\MY Project\TextGeneratorGit\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.runtimeconfig.json" target="lib\netcoreapp3.1\TextGenerator.runtimeconfig.json" />
+    <file src="D:\01 Documents\MY Project\TextGeneratorGit\TextGenerator\bin\Debug\netcoreapp3.1\TextGenerator.dll" target="lib\netcoreapp3.1\TextGenerator.dll" />
+  </files>
+</package>

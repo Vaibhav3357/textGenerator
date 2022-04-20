@@ -6,6 +6,17 @@
     <Company>LSS</Company>
     <Authors>Vaibhav</Authors>
     <Description>Generate Text File - Document Soon</Description>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Obfuscar" Version="2.2.33">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="&quot;$(Obfuscar)&quot; obfuscar.xml" />
+  </Target>
 </Project>

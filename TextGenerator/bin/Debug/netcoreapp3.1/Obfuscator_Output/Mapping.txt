@@ -1,0 +1,62 @@
+Renamed Types:
+
+[TextGenerator]TextGenerator.Internals.internalHelpr/<>c -> [TextGenerator] . / 
+{
+	[TextGenerator]TextGenerator.Internals.internalHelpr/<>c::<RemoveEmptyRowFromDatatable>b__2_0[1]( [System.Data.Common]System.Data.DataRow ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr/<>c::<RemoveEmptyRowFromDatatable>b__2_1[1]( [System.Runtime]System.Object ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr/<>c::<GetCSVfromDatatable>b__8_0[1]( [System.Data.Common]System.Data.DataColumn ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr/<>c::<GetCSVfromDatatable>b__8_1[1]( [System.Runtime]System.Object ) ->  
+
+	[TextGenerator]TextGenerator.Internals.internalHelpr/<>c::.cctor[0]( ) skipped:  special name
+	[TextGenerator]TextGenerator.Internals.internalHelpr/<>c::.ctor[0]( ) skipped:  special name
+
+	TextGenerator.Internals.internalHelpr/<>c [TextGenerator]TextGenerator.Internals.internalHelpr/<>c TextGenerator.Internals.internalHelpr/<>c::<>9 ->  
+	System.Func`2<System.Object,System.Boolean> [TextGenerator]System.Func`2<System.Object,System.Boolean> TextGenerator.Internals.internalHelpr/<>c::<>9__2_1 ->  
+	System.Func`2<System.Data.DataRow,System.Boolean> [TextGenerator]System.Func`2<System.Data.DataRow,System.Boolean> TextGenerator.Internals.internalHelpr/<>c::<>9__2_0 ->  
+	System.Func`2<System.Data.DataColumn,System.String> [TextGenerator]System.Func`2<System.Data.DataColumn,System.String> TextGenerator.Internals.internalHelpr/<>c::<>9__8_0 ->  
+	System.Func`2<System.Object,System.String> [TextGenerator]System.Func`2<System.Object,System.String> TextGenerator.Internals.internalHelpr/<>c::<>9__8_1 ->  
+}
+
+[TextGenerator]TextGenerator.Internals.internalHelpr -> [TextGenerator] . 
+{
+	[TextGenerator]TextGenerator.Internals.internalHelpr::getCloneDt[2]( [System.Data.Common]System.Data.DataTable, [System.Runtime]System.Boolean ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr::getDatatbleStruct[1]( [System.Data.Common]System.Data.DataTable ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr::RemoveEmptyRowFromDatatable[1]( [System.Data.Common]System.Data.DataTable ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr::AddIndexColumnInDatatable[3]( [System.Data.Common]System.Data.DataTable, [System.Runtime]System.String, [System.Runtime]System.Int32 ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr::GetTextExportTableHeadingString[1]( [System.Data.Common]System.Data.DataTable ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr::GetTextExportTableHeadingMultilineString[2]( [System.Data.Common]System.Data.DataTable, [System.Runtime]System.String ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr::GetTextExportTableRowString[1]( [System.Data.Common]System.Data.DataTable ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr::GetTextExportTableRowStringMultiline[2]( [System.Data.Common]System.Data.DataTable, [System.Runtime]System.String ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr::GetCSVfromDatatable[1]( [System.Data.Common]System.Data.DataTable ) ->  
+	[TextGenerator]TextGenerator.Internals.internalHelpr::GetHtmlTable[1]( [System.Data.Common]System.Data.DataTable ) ->  
+}
+
+Skipped Types:
+
+[TextGenerator]TextGenerator.Helper skipped:  namespace rule in configuration
+{
+
+	[TextGenerator]TextGenerator.Helper::getCloneDt[2]( [System.Data.Common]System.Data.DataTable, [System.Runtime]System.Boolean ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Helper::getDatatbleStruct[1]( [System.Data.Common]System.Data.DataTable ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Helper::RemoveEmptyRowFromDatatable[1]( [System.Data.Common]System.Data.DataTable ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Helper::AddIndexColumnInDatatable[3]( [System.Data.Common]System.Data.DataTable, [System.Runtime]System.String, [System.Runtime]System.Int32 ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Helper::GetTextExportTableHeadingString[1]( [System.Data.Common]System.Data.DataTable ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Helper::GetTextExportTableHeadingMultilineString[2]( [System.Data.Common]System.Data.DataTable, [System.Runtime]System.String ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Helper::GetTextExportTableRowString[1]( [System.Data.Common]System.Data.DataTable ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Helper::GetTextExportTableRowStringMultiline[2]( [System.Data.Common]System.Data.DataTable, [System.Runtime]System.String ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Helper::GetCSVfromDatatable[1]( [System.Data.Common]System.Data.DataTable ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Helper::GetHtmlTable[1]( [System.Data.Common]System.Data.DataTable ) skipped:  type rule in configuration
+}
+
+[TextGenerator]TextGenerator.Program skipped:  namespace rule in configuration
+{
+
+	[TextGenerator]TextGenerator.Program::Main[1]( [System.Runtime]System.String[] ) skipped:  type rule in configuration
+	[TextGenerator]TextGenerator.Program::.ctor[0]( ) skipped:  special name
+}
+
+Renamed Resources:
+
+
+Skipped Resources:
+

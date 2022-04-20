@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HQ+zLhkWRAUEDzOoYYlK1GcyZn7xuo8n3rHPB5H1zHiYmz/2B4MQ4jtqKL8hs+qW2T/YOQlmofhM+J/ZTHiuSw==",
+  "dgSpecHash": "jBEpxgpwO7HxYXmrr4LW2uJktWiFUmOUdm8Ep6Q9kbYEVVp2iG8QYaNy8UH9wZiNseYUlG7ZMNnyv6Vb4hQilw==",
   "success": true,
   "projectFilePath": "D:\\01 Documents\\MY Project\\TextGeneratorGit\\TextGenerator\\TextGenerator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Vaibhav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\obfuscar\\2.2.33\\obfuscar.2.2.33.nupkg.sha512"
   ],
   "logs": []
 }
